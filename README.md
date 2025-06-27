@@ -41,7 +41,8 @@ No deep learning. No labeling.
 Just rhythm, mathematics, and structure.
 
 ## 🧪 Demo Highlights
-
+[Watch the demo video](https://www.youtube.com/watch?v=j5lalqRKHfQ)
+[Watch the demo video](https://www.youtube.com/watch?v=Qv-HaAx9RQY)
 This repository contains:
 - 📄 A theoretical PDF explaining RAIN in detail
 - 🎥 Demo videos showing edge detection and object separation using rhythm only
