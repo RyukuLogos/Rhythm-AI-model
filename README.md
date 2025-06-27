@@ -42,7 +42,9 @@ Just rhythm, mathematics, and structure.
 
 ## 🧪 Demo Highlights
 [demo video1 people](https://www.youtube.com/watch?v=j5lalqRKHfQ)
+
 [demo video2 diving](https://www.youtube.com/watch?v=Qv-HaAx9RQY)
+
 This repository contains:
 - 📄 A theoretical PDF explaining RAIN in detail
 - 🎥 Demo videos showing edge detection and object separation using rhythm only
