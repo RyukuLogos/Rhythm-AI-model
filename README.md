@@ -74,6 +74,9 @@ A lone theorist redefining how machines perceive the world.
 To be determined.  
 For now: **All rights reserved** until public release.
 
+For a complete explanation of the theory and implementation:
+
+👉 [Download the technical whitepaper (PDF)](./RAIN_Whitepaper_English_v1_final.pdf)
 ---
 
 > “Rhythm is not just music. Rhythm is cognition. Rhythm is space. Rhythm is everything.”
