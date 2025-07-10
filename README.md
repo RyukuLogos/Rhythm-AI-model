@@ -1,5 +1,10 @@
 # Rhythm is All You Need (RAIN)
+## 🚨 Note: This is an outdated version of the RAIN theory.
 
+The latest, formalized version with DOI registration and updated mathematical structure is here:
+➡️ https://github.com/RyukuLogos/RAIN-rhythm-ai-model-2025-7-10
+
+This repository is kept for archival and historical reference.
 **The next paradigm of visual and perceptual understanding.**
 
 > Goodbye Transformers. Hello to Rhythm.
